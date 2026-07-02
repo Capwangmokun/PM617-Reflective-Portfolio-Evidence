@@ -5,7 +5,6 @@ This repository contains supporting evidence for my PM617 Reflective Portfolio.
 ## Activities
 
 ## Activity 1: Effective Presentations
-
 This folder contains evidence for Activity 1, Effective Presentations.  
 The presentation topic is **Recent Nobel Prize Winner: Nobel Prize in Physics 2025**.
 
