@@ -4,6 +4,11 @@ This repository contains supporting evidence for my PM617 Reflective Portfolio.
 
 ## Activities
 
+## Activity 1: Effective Presentations
+
+This folder contains evidence for Activity 1, Effective Presentations.  
+The presentation topic is **Recent Nobel Prize Winner: Nobel Prize in Physics 2025**.
+
 ### Activity 2: MATLAB Activities
 This folder contains a MATLAB program called `IT Study Workload Analyzer`.  
 The program analyses six weeks of IT study workload and produces command-window summaries and visual charts.
